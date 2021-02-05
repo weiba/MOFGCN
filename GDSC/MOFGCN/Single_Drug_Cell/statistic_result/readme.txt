@@ -1,0 +1,1 @@
+This is a output folder for results.
